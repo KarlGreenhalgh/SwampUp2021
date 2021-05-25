@@ -4,7 +4,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: github
-      path: greenhalghk/SwampUp2021
+      path: KarlGreenhalgh/SwampUp2021
       branches:
         include: main
 
